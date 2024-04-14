@@ -101,3 +101,21 @@ button {
     margin-bottom: 5px;
 }
 
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: #e5e7eb;
+    padding: 100px 300px;
+}
+
+.quote p {
+    font-size: 30pt;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote h3 {
+    font-size: 18pt;
+    padding-right: 100px;
+}
