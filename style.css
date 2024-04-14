@@ -5,11 +5,25 @@
 .header, .hero {
     background-color: #1d3557;
     color: #f1faee;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.header {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.header-logo {
+    font-size: 20pt;
+    font-weight: bolder;
 }
 .header a {
     color: #f1faee;
+    text-decoration: none;
+    padding: 10px;
 }
-.header-logo {
-    font-size: 24pt;
-    font-weight: bolder;
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
 }
