@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    font-family: Roboto;
+}
+.header, .hero {
+    background-color: #1d3557;
+    color: #f1faee;
+}
+.header a {
+    color: #f1faee;
+}
+.header-logo {
+    font-size: 24pt;
+    font-weight: bolder;
+}
