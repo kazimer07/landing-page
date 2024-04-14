@@ -119,3 +119,28 @@ button {
     font-size: 18pt;
     padding-right: 100px;
 }
+
+.call-to-action-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 50px 200px;
+    padding: 50px 200px;
+    background-color: #408ef3;
+    color: white;
+    border: 1px solid;
+    border-radius: 12px;
+}
+
+.call-to-action-box button {
+    background-color: #408ef3;
+    color: #f1faee;
+    border: 3px solid;
+}
+
+.footer {
+    text-align: center;
+    padding: 25px;
+    color: #e5e7eb;
+    background-color: #1f2937;
+}
