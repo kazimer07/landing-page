@@ -33,6 +33,12 @@ h2 {
 margin: 42px 0px 0px 0px;
 }
 
+h3 {
+
+    padding: 0px;
+}
+
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -86,6 +92,7 @@ button {
     flex-direction: column;
     text-align: center;
     gap: 24px;
+    padding: 36px;
 
 }
 
@@ -106,8 +113,8 @@ button {
 .service-image {
     border: #3882f6 5px solid; 
     border-radius: 10%;
-    width: 225px;
-    height: 225px;
+    width: 200px;
+    height: 200px;
 }
 
 .quote-section {
