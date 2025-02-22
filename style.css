@@ -124,6 +124,12 @@ button {
 
 }
 
+.action-section {
+    display: flex;
+    flex-direction: row;
+
+}
+
 .footer {
     padding: 24px;
 }
